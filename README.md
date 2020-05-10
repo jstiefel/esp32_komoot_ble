@@ -1,3 +1,5 @@
+Hint: The code is deprecated and only kept for reference. Only tested with iOS. It won't work if you don't use the mentioned library versions. The official ESP32 Android libraries now include BLE.
+
 # The Komoot BLE Navigation Device Project
 
 The goal of this project is to create an inexpensive turn-by-turn navigation device based on ESP32 and [Komoot's BLE Connect API](https://github.com/komoot/BLEConnect).
